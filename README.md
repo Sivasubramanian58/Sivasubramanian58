@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivasubramanian
-- 👀 I’m interested in Data Analyst role
-- 🌱 I’m currently learning SQL, Power BI, Tableau, Python
+- 👀 I’m a Data Analyst. Upgrading myself to Data Engineer
+- 🌱 I’m working with SQL, AWS, Python
 
 <!---
 Sivasubramanian58/Sivasubramanian58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
